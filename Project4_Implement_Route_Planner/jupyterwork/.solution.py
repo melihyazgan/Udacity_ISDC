@@ -1,5 +1,7 @@
 from math import sqrt
 
+""" Solution provided by Udacity after reviewing """
+
 def shortest_path(M, start, goal):
     """
     A* search Implementation.
